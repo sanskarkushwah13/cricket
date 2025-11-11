@@ -1,0 +1,4 @@
+// Create the navigation for use on the "small" version of the site.
+domready(function () {
+	selectnav('nav', { indent: '-' });
+});
